@@ -7,6 +7,7 @@ The European Genome-phenome Archive (EGA) is a service for permanent archiving a
 
 ## Prepare documents before getting a submission account
 
+* Get an account so we could download the EGA data processing form.
 * Fill out the submission form https://ega-archive.org/submission-form.php.
 * Form a DAC ([Data Access Committee](https://ega-archive.org/submission/data_access_committee)) and fill out Data processing agreement. This file needs to be signed by both your institution and EGA.
 * Email the above file to EGA and they will provide you an account with login info.
